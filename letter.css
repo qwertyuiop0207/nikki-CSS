@@ -60,7 +60,7 @@ body {
   margin: 1px auto 0;
   max-width: 550px;
   min-height: 300px;
-  padding: 24px 24px;
+  padding: 24px;
   position: relative;
   width: 80%;
 }
@@ -78,7 +78,7 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,0.2);
   left: -5px;
   top: 2px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   transform: rotate(-2.5deg);
 }
 
